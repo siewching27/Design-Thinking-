@@ -5,13 +5,13 @@ Our design thinking project aims to address these challenges to enhance user sat
 Our team observed the usage of vending machines and identified potential problems. We conducted interviews with two key groups: **users** and **operators**. The table below is the insightful information we gather from each individuals: 
 | Problem | Solution |
 | --- | --- |
-| Item will pass its expiration date if not checked regularly and difficult<br>to forecast customer preference | Designed an IoT and AI-based application for seller <br> - Auto detect expiration date <br> - Generate weekly reports and charts |
-| Popular item always out of stock unintentionally and hard to<br>determine restocking period | Designed an IoT and AI-based application for seller <br> - Instant restock alert <br> - Real-time stock monitoring with the help of IoT |
+| Item will pass its expiration date if not checked regularly and difficult<br>to forecast customer preference | 📱Designed an IoT and AI-based application for seller <br> - Auto detect expiration date <br> - Generate weekly reports and charts |
+| Popular item always out of stock unintentionally and hard to<br>determine restocking period | 📱Designed an IoT and AI-based application for seller <br> - Instant restock alert <br> - Real-time stock monitoring with the help of IoT |
 | Item gets stuck | 🔐Locker structure <br> - Automatically unlock after the payment is made <br> - Replace spiral rack to lower the risk of item getting stuck |
 | Struggle to choose what to purchase when there are too many options | 🤖AI Voice Assistant (TreatBuddy) <br> - Give personalized recommendations |
 
 ## 🧠 **Our Brainstorming Process**
-We brainstormed a range of solutions, from simple modifications focused on human-centered design to more advanced technologies, such as implementing AI and IoT. After evaluating the potential of each idea, we decided to design a scaled-down version of our AI-powered vending machine. This model incorporated the key solutions identified during ideation, allowing us to explore how they could work in practice. We worked tirelessly, day and night, and ultimately produced a model of Auto Treats, complete with interactive user and operator apps.
+We brainstormed a range of solutions, from simple modifications focused on human-centered design to more advanced technologies, such as **implementing AI and IoT**. After evaluating the potential of each idea, we decided to design a scaled-down version of our AI-powered vending machine. This model incorporated the key solutions identified during ideation, allowing us to explore how they could work in practice. We worked tirelessly, day and night, and ultimately produced a model of **Auto Treats**, complete with interactive user and operator apps.
 
 ## 🖼️ **Drawing & Model of AutoTreats Vending Machine**
 <p align="center">
@@ -36,7 +36,7 @@ Seller App&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 </p>
 
 ## 💡**Reflection**
-The goal with regard to my course is to equip myself with the necessary skills and knowledge that will come in handy in a real-world situation. I am eager to learn new technologies and ideas so that I can play a key role in preventing cyberattacks in the future. Design thinking allows me to enhance my problem-solving and critical-thinking skills. I can detect the possible problems faced by people and think creatively to resolve them. With these skills, I can be more aware of cyber threats nowadays and analyze complex situations effectively. To strengthen my skills, I will try to keep up with the latest technology trends by participating in different workshops, talks, or even competitions. Staying open to continuous learning and improvement gives me more opportunities in the industry and enhances my marketability.
+The goal with regard to my course is to equip myself with the necessary skills and knowledge that will come in handy in a real-world situation. I am eager to **learn new technologies and ideas** so that I can play a key role in preventing cyberattacks in the future. Design thinking allows me to enhance my **problem-solving and critical-thinking skills**. I can detect the possible problems faced by people and think creatively to resolve them. With these skills, I can be more aware of cyber threats nowadays and analyze complex situations effectively. To strengthen my skills, I will try to **keep up with the latest technology trends** by participating in different workshops, talks, or even competitions. Staying open to **continuous learning** and improvement gives me more opportunities in the industry and enhances my marketability.
 
 ## 📄 **Project Documents & Resources**
 Here is the report for our design thinking project:
