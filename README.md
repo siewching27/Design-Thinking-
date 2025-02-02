@@ -5,7 +5,7 @@ Our design thinking project aims to address these challenges to enhance user sat
 Our team observed the usage of vending machines and identified potential problems. We conducted interviews with two key groups: **users** and **operators**. The table below is the insightful information we gather from each individuals: 
 | Problem | Solution |
 | --- | --- |
-| Item will pass its expiration date if not checked regularly and difficult<br>to forecast customer preference | 📱Designed an IoT and AI-based application for seller <br> - Auto detect expiration date <br> - Generate weekly reports and charts |
+| Item will pass its expiration date if not checked regularly<br> and difficult to forecast customer preference | 📱Designed an IoT and AI-based application for seller <br> - Auto detect expiration date <br> - Generate weekly reports and charts |
 | Popular item always out of stock unintentionally and hard to<br>determine restocking period | 📱Designed an IoT and AI-based application for seller <br> - Instant restock alert <br> - Real-time stock monitoring with the help of IoT |
 | Item gets stuck | 🔐Locker structure <br> - Automatically unlock after the payment is made <br> - Replace spiral rack to lower the risk of item getting stuck |
 | Struggle to choose what to purchase when there are too many options | 🤖AI Voice Assistant (TreatBuddy) <br> - Give personalized recommendations |
